@@ -152,5 +152,6 @@ It demonstrates key Java programming concepts such as:
 
 ## Author
 
-- GitHub: [Midu Mojumder](https://github.com/midu-01)
+- Name: Midu Mojumder
+- GitHub: [midu-01](https://github.com/midu-01)
 - Email: midumojumder8@gmail.com
