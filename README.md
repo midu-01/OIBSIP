@@ -44,7 +44,7 @@ This is a simple number guessing game built using Java and Swing. The user has 7
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/midu-01/OIBSIP.git
+   git clone [https://github.com/midu-01/OIBSIP.git](https://github.com/midu-01/OIBSIP.git)
 2. Navigate to the `NumberGuessingGame` directory in your IDE (e.g., IntelliJ IDEA).
 
 3. Open and run `Main.java`.
@@ -93,9 +93,9 @@ This is a simple **ATM Interface application** developed using **Java** and **Sw
 
 ![Updated Balance](Assets/ATMinterface/fig6.png)
 
-**withdrow**
+**Withdraw**
 
-![withdrow](Assets/ATMinterface/fig7.png)
+![withdraw](Assets/ATMinterface/fig7.png)
 ![Successful](Assets/ATMinterface/fig8.png)
 
 **Updated Balance**
