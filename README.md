@@ -68,6 +68,49 @@ This is a simple **ATM Interface application** developed using **Java** and **Sw
 
 ---
 
+## Screenshots
+
+*Below are a few screenshots from the Interface:*
+
+**Login Interface**
+
+![Login Interface](Assets/fig1.png)
+
+**User Interface**
+
+![User Interface](Assets/fig2.png)
+
+**Initial Balance**
+
+![Initial Balance](Assets/fig3.png)
+
+**Deposit**
+
+![Deposit](Assets/fig1.png)
+
+**Updated Balance**
+
+![Incorrect Guess](Assets/fig2.png)
+
+**withdrow**
+
+![withdrow](Assets/fig3.png)
+
+**Updated Balance**
+
+![Updated Balance](Assets/fig1.png)
+
+**Transfer**
+
+![user name](Assets/fig2.png)
+![amount](Assets/fig2.png)
+
+**Transaction History**
+
+![Transaction History](Assets/fig3.png)
+
+---
+
 ## Technologies Used
 
 - Java (JDK 8 or above)
