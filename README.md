@@ -1,47 +1,46 @@
-# 🎯 Number Guessing Game (Java Swing)
+# Number Guessing Game
 
-A simple and fun **Number Guessing Game** built using **Java Swing**. The player has **7 chances** to guess a randomly generated number between 1 and 100. Visual feedback is provided through color changes and messages.
-
----
-
-## 🚀 Features
-
-- 🎲 Random number between 1 and 100
-- 🧠 7 chances to guess
-- 🎨 Visual feedback with color changes (green for correct, red for incorrect)
-- 📉 Hints provided: *Too High* or *Too Low*
-- 🔄 Auto-disable on game over or correct guess
+This is a simple number guessing game built using Java and Swing. The user has 7 attempts to guess a randomly generated number between 1 and 100. The interface provides visual feedback and hints after each guess.
 
 ---
 
-## 🖼️ Demo Screenshots
+## Features
 
-> 📌 *Add your screenshots in the same directory as this README and name them accordingly.*
-
-### 🔹 Game Interface
-
-![Game Start](fig1.png)
-
-### 🔹 Incorrect Guess (Too High)
-
-![Too High](fig2.png)
-
-### 🔹 Correct Guess (Win)
-
-![Win](fig3.png)
+- Random number generation between 1 and 100
+- Limited to 7 guesses
+- Visual feedback (color changes on correct/incorrect guesses)
+- Hint messages: "Too High" or "Too Low"
+- Automatically ends on win or after 7 incorrect attempts
 
 ---
 
-## 🛠️ Technologies Used
+## Screenshots
 
-- Java 8+
-- Java Swing (GUI)
+*Below are a few screenshots from the game:*
+
+**Initial Interface**
+
+![Initial Interface](fig1.png)
+
+**Incorrect Guess - Hint Message**
+
+![Incorrect Guess](fig2.png)
+
+**Correct Guess - Success Message**
+
+![Correct Guess](fig3.png)
+
+---
+
+## Technologies Used
+
+- Java (JDK 8 or above)
+- Java Swing (for GUI)
 - IntelliJ IDEA (recommended IDE)
 
 ---
 
-## 📁 Project Structure
-
+## Project Structure
 NumberGuessingGame/
 ├── src/
 │ └── Main.java
@@ -49,16 +48,26 @@ NumberGuessingGame/
 ├── NumberGuessingGame.iml
 └── README.md
 
+---
+
+## How to Run
+
+1. Clone the repository:
+git clone https://github.com/midu-01/OIBSIP.git
+
+2. Navigate to the `NumberGuessingGame` directory in your IDE (e.g., IntelliJ IDEA).
+
+3. Open and run `Main.java`.
 
 ---
 
-## ▶️ How to Run
+## Internship Information
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/midu-01/OIBSIP.git
-2. Open the NumberGuessingGame folder in an IDE like IntelliJ IDEA.
+This project is part of the **Oasis Infobyte Internship Program (OIBSIP)**. It demonstrates basic GUI programming and logic implementation using Java.
 
-3. Run Main.java.
+---
 
+## Author
 
+- GitHub: [Midu Mojumder](https://github.com/midu-01)
+- Email: midumojumder8@gmail.com
