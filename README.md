@@ -20,15 +20,15 @@ This is a simple number guessing game built using Java and Swing. The user has 7
 
 **Initial Interface**
 
-![Initial Interface](Assest/fig1.png)
+![Initial Interface](Assets/fig1.png)
 
 **Incorrect Guess - Hint Message**
 
-![Incorrect Guess](fig2.png)
+![Incorrect Guess](Assets/fig2.png)
 
 **Correct Guess - Success Message**
 
-![Correct Guess](fig3.png)
+![Correct Guess](Assets/fig3.png)
 
 ---
 
