@@ -20,7 +20,7 @@ This is a simple number guessing game built using Java and Swing. The user has 7
 
 **Initial Interface**
 
-![Initial Interface](fig1.png)
+![Initial Interface](Assest/fig1.png)
 
 **Incorrect Guess - Hint Message**
 
