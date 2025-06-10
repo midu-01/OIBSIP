@@ -20,15 +20,15 @@ This is a simple number guessing game built using Java and Swing. The user has 7
 
 **Initial Interface**
 
-![Initial Interface](Assets/fig1.png)
+![Initial Interface](Assets/NumberGuessingGame/fig1.png)
 
 **Incorrect Guess - Hint Message**
 
-![Incorrect Guess](Assets/fig2.png)
+![Incorrect Guess](Assets/NumberGuessingGame/fig2.png)
 
 **Correct Guess - Success Message**
 
-![Correct Guess](Assets/fig3.png)
+![Correct Guess](Assets/NumberGuessingGame/fig3.png)
 
 ---
 
@@ -74,40 +74,43 @@ This is a simple **ATM Interface application** developed using **Java** and **Sw
 
 **Login Interface**
 
-![Login Interface](Assets/fig1.png)
+![Login Interface](Assets/ATMinterface/fig1.png)
 
-**User Interface**
+**ATM Menu**
 
-![User Interface](Assets/fig2.png)
+![atm menu](Assets/ATMinterface/fig2.png)
 
 **Initial Balance**
 
-![Initial Balance](Assets/fig3.png)
+![Initial Balance](Assets/ATMinterface/fig3.png)
 
 **Deposit**
 
-![Deposit](Assets/fig1.png)
+![Deposit](Assets/ATMinterface/fig4.png)
+![Successful](Assets/ATMinterface/fig5.png)
 
 **Updated Balance**
 
-![Incorrect Guess](Assets/fig2.png)
+![Updated Balance](Assets/ATMinterface/fig6.png)
 
 **withdrow**
 
-![withdrow](Assets/fig3.png)
+![withdrow](Assets/ATMinterface/fig7.png)
+![Successful](Assets/ATMinterface/fig8.png)
 
 **Updated Balance**
 
-![Updated Balance](Assets/fig1.png)
+![Updated Balance](Assets/ATMinterface/fig9.png)
 
 **Transfer**
 
-![user name](Assets/fig2.png)
-![amount](Assets/fig2.png)
+![user name](Assets/ATMinterface/fig10.png)
+![amount](Assets/ATMinterface/fig11.png)
+![Successful](Assets/ATMinterface/fig12.png)
 
 **Transaction History**
 
-![Transaction History](Assets/fig3.png)
+![Transaction History](Assets/ATMinterface/fig13.png)
 
 ---
 
