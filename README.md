@@ -41,11 +41,11 @@ This is a simple number guessing game built using Java and Swing. The user has 7
 ---
 
 ## Project Structure
-NumberGuessingGame/
-├── src/
-│ └── Main.java
-├── .idea/
-├── NumberGuessingGame.iml
+NumberGuessingGame/ <br>
+├── src/ <br>
+│ └── Main.java <br>
+├── .idea/ <br>
+├── NumberGuessingGame.iml <br>
 └── README.md
 
 ---
